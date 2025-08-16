@@ -1,8 +1,8 @@
 # dsa-library
 A collection of Data Structures and Algorithms implementations including Arrays, Searching, Sorting, Linked Lists, Stacks, Queues, Trees, and Graphs
-# 📘 Data Structures & Algorithms (DSA) in C++ 
-This repository contains my implementations of fundamental *Data Structures* and *Algorithms* in C++.
-![C++](https://img.shields.io/badge/language-C++-blue.svg)
+# 📘 Data Structures & Algorithms (DSA) in C
+This repository contains my implementations of fundamental *Data Structures* and *Algorithms* in C.
+![C](https://img.shields.io/badge/language-C-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/shubhamsingh77ss/dsa-library?color=yellow)
 ![Repo Size](https://img.shields.io/github/repo-size/shubhamsingh77ss/dsa-library?color=orange)
