@@ -24,3 +24,4 @@ int main()
         printf("\n GDP of the country %d is %.2LF",i+1,GDP[i]);
     }
 }
+//changes
