@@ -1,4 +1,4 @@
-//Write a program that asks from the user number of countries . Then declare an array called GDP with as much size. Now read and print
+////Write a program that asks from the user number of countries . Then declare an array called GDP with as much size. Now read and print
 //the gross domestic products of the countries
 #include<stdio.h>
 #include<stdlib.h>
