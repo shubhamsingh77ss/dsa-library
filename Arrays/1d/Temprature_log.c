@@ -5,7 +5,6 @@
 int main() {
     float temp[10]; // float because temperature can have decimals
     int n = 0;
-
     // Input temperatures
     while (n < 10) {
         printf("Enter the temperature of day %d: ", n + 1);
