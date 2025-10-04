@@ -1,4 +1,4 @@
-//program to dynamically store and display GDP values of countries using malloc in
+//program to dynamically store and display GDP values of countries usi ng malloc in
 #include <stdio.h>
 #include <stdlib.h>    // required for malloc() and exit()
 
