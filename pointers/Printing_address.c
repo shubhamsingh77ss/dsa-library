@@ -1,4 +1,4 @@
-//program to demonstrate printing addresses of variables using pointers in C
+ //program to demonstrate printing addresses of variables using pointers in C
 
 #include<stdio.h>
 
