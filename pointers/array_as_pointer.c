@@ -1,4 +1,4 @@
-//program to demonstrate array name as pointer in C
+ //program to demonstrate array name as pointer in C
 #include<stdio.h>
 
 int main()
